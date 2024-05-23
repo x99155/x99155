@@ -1,7 +1,7 @@
 - 👋 Hi, I’m boris
 - 👀 I’m interested in ...
 - 🌱 I’m Jobless :(
-- 📫 How to reach me nopasswrdrequired@gmail.com
+- 📫 How to reach me ...
 
 
 <!---
