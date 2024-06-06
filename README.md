@@ -1,7 +1,7 @@
 - 👋 Hi, I’m boris
-- 👀 I’m interested in minimalism
-- 🌱 I’m actually looking for an apprenticeship as a Data Engineer to levelup my skills
-- 📫 How to reach me (no way sorry :x)
+- 👀 I’m interested ...
+- 🌱 I’m actually ...
+- 📫 How to reach me ...
 
 
 <!---
