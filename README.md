@@ -1,11 +1,10 @@
-- 👋 Hi, I’m boris
-- 👀 I’m interested ...
-- 🌱 I’m actually ...
-- 📫 How to reach me ...
+
+___________                        _________                      __  .__    .__                 
+\__    ___/__.__.______   ____    /   _____/ ____   _____   _____/  |_|  |__ |__| ____    ____   
+  |    | <   |  |\____ \_/ __ \   \_____  \ /  _ \ /     \_/ __ \   __\  |  \|  |/    \  / ___\  
+  |    |  \___  ||  |_> >  ___/   /        (  <_> )  Y Y  \  ___/|  | |   Y  \  |   |  \/ /_/  > 
+  |____|  / ____||   __/ \___  > /_______  /\____/|__|_|  /\___  >__| |___|  /__|___|  /\___  /  
+          \/     |__|        \/          \/             \/     \/          \/        \//_____/   
 
 
-<!---
-x99155/x99155 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-I’m currently working at ...
---->
+
